@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "KRLS"]
 	path = KRLS
-	url = https://github.com/cran/KRLS
+	url = https://github.com/j-hai/krls
 [submodule "Synth"]
 	path = Synth
 	url = https://github.com/j-hai/synth
